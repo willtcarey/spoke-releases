@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="Spoke%201.0.zip" length="5892830" type="application/octet-stream" sparkle:edSignature="U/r2Tb3T9gv+xE0pYaP1hJreaQ2pjhx8c2w8pkjVtgmMt5IRiI7YpiiBdbiJbSpVXTy2zAZcR01xv2hyQKkdDQ=="/>
+            <enclosure url="https://github.com/willtcarey/spoke-releases/releases/download/v1.0/Spoke.1.0.zip" length="5892830" type="application/octet-stream" sparkle:edSignature="U/r2Tb3T9gv+xE0pYaP1hJreaQ2pjhx8c2w8pkjVtgmMt5IRiI7YpiiBdbiJbSpVXTy2zAZcR01xv2hyQKkdDQ=="/>
         </item>
     </channel>
 </rss>
