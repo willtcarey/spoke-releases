@@ -13,7 +13,7 @@
         <item>
             <title>v2</title>
             <pubDate>Thu, 08 May 2025 00:35:22 -0500</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/willtcarey/spoke-releases/releases/download/v2/Spoke.v2.zip" length="5904312" type="application/octet-stream" sparkle:edSignature="hQBzRSteAfA3/hHFs6jhoIDS4C17zqvoQ6WczdVnRHCjph4GOjHRkSji3MqfHGrYmluJZS/bNqBOFbbPBe8xBQ=="/>
